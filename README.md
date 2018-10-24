@@ -1,2 +1,2 @@
 # Onlineshop
-create online store for sell product
+in this app provide checkout option.
